@@ -1,0 +1,9 @@
+gb-fashion-store
+│
+├── products.json
+│
+└── images
+    ├── dress1.jpg
+    ├── dress2.jpg
+    ├── bag1.jpg
+    └── shoes1.jpg
